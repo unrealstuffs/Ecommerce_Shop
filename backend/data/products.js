@@ -1,6 +1,5 @@
 const products = [
     {
-        _id: "1",
         name: "Crafter HD-100 Open Pore, Natural",
         image: "/images/crafter_hd-100_open_pore_natural.jpg",
         description: "Start acoustic guitar",
@@ -12,7 +11,6 @@ const products = [
         numReviews: 12,
     },
     {
-        _id: "2",
         name: "Martin D-28",
         image: "/images/martin_d-28.jpg",
         description: "Legendary dreadnought",
@@ -24,7 +22,6 @@ const products = [
         numReviews: 8,
     },
     {
-        _id: "3",
         name: "Martin D-35",
         image: "/images/martin_d-35.jpg",
         description: "Legendary Martin guitar",
@@ -36,7 +33,6 @@ const products = [
         numReviews: 12,
     },
     {
-        _id: "4",
         name: "Maton S70",
         image: "/images/maton_s70.jpg",
         description: "Beaitiful guitar with great sound",
@@ -48,7 +44,6 @@ const products = [
         numReviews: 12,
     },
     {
-        _id: "5",
         name: "Parkwood W81-OP",
         image: "/images/parkwood_w81-op.jpg",
         description: "Base dreadnought for powerful stuffs",
@@ -60,7 +55,6 @@ const products = [
         numReviews: 10,
     },
     {
-        _id: "6",
         name: "Yamaha F310",
         image: "/images/yamaha_f310.jpg",
         description: "Most hot guitar for novice",
